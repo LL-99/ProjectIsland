@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db30727f4d3d9eb4d83294f9ba2aacaf, type: 3}
+  m_Name: Test Tileset
+  m_EditorClassIdentifier: 
+  tileScale: {x: 4, y: 4, z: 4}
+  tile_none: {fileID: 434440634437680151, guid: f71dc71ebbe6de342be6fd84760c2e6b,
+    type: 3}
+  tile_full: {fileID: 4173699017926495700, guid: 3bab13035fddc1b4eaaece4bd071420f,
+    type: 3}
+  tile_pillar: {fileID: 4173699017926495700, guid: cd0efe82de520974bb1f9269267c2793,
+    type: 3}
+  corner_inner_single: {fileID: 1311078773038762211, guid: 5292fc7e14afe5f4faadaa8eeeeee0e1,
+    type: 3}
+  corner_inner_double_adjacent: {fileID: 211666352432242049, guid: 585c6c6fc026f6145b56fe912e8c51d0,
+    type: 3}
+  corner_inner_double_opposite: {fileID: 5338491909731163668, guid: 6071f7670b1255340b87180111c68b2b,
+    type: 3}
+  corner_inner_triple: {fileID: 4672183338399230159, guid: 0d431ecaaadfa53448e25dd35e1026b7,
+    type: 3}
+  corner_inner_quadruple: {fileID: 0}
+  edge_single: {fileID: 1419547547405241203, guid: a89138445387b2241b90931d36172347,
+    type: 3}
+  edge_double_opposite: {fileID: 2980998405544980126, guid: 203e35a73c0fc834597704591f0211f1,
+    type: 3}
+  corner_inner_single_edge_single: {fileID: 0}
+  corner_inner_single_edge_single_mirrored: {fileID: 0}
+  corner_outer_single: {fileID: 10756978917098383, guid: e2dd1c84b72cd414cb575aed5eb2e8f5,
+    type: 3}
+  corner_outer_double: {fileID: 4691229344165338475, guid: c8118a4bc2b4bbe4195d0f4edd217e33,
+    type: 3}
+  corner_inner_corner_outer: {fileID: 4173609205215478460, guid: 34dd791fd06d548448cc877dcba458e2,
+    type: 3}
+  ramp_full: {fileID: 7678722982320365150, guid: d96fba2c919f44c4884870e8cd00a485,
+    type: 3}

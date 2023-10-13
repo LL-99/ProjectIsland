@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b94e8ae861f0684398aa9d1f20de056, type: 3}
+  m_Name: MainFloraset
+  m_EditorClassIdentifier: 
+  density: 1
+  rockWeight: 2
+  treeWeight: 20
+  grassWeight: 50
+  rocks:
+  - radius: 1
+    prefab: {fileID: 3984398121619189153, guid: 4903b28f69b2a4149b0bb3730085d375,
+      type: 3}
+  - radius: 1
+    prefab: {fileID: 30482465880594472, guid: d84427602c80f3b4cabb01e3f1a5be56, type: 3}
+  - radius: 1
+    prefab: {fileID: 6736847264140601825, guid: 870efedae0403374ab85bec1a4907917,
+      type: 3}
+  - radius: 1
+    prefab: {fileID: 6560626255052610303, guid: 4b8412396defad74ba730379e874a79c,
+      type: 3}
+  trees:
+  - radius: 1
+    prefab: {fileID: 7476868522457220913, guid: 2111678471939db469cee82df0e8dce1,
+      type: 3}
+  grass:
+  - radius: 0.2
+    prefab: {fileID: 4411114323789368423, guid: 28929b635428f414fb8dfa0193412cbe,
+      type: 3}
+  - radius: 0.2
+    prefab: {fileID: 4672421506294919470, guid: 2386d43872e6c7e4fb7e4d2db209a60d,
+      type: 3}
+  - radius: 0.2
+    prefab: {fileID: 5343303425680871447, guid: 495ed0f452fd3824986ccf6e6286549c,
+      type: 3}
